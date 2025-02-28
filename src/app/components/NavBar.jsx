@@ -178,7 +178,7 @@ const NavBar = () => {
                 onClick={handleLogin}
                 className="block w-full text-center px-4 py-3 bg-indigo-500 text-white hover:bg-indigo-600 rounded-lg text-base font-medium transition-colors duration-200"
               >
-                Login
+                Signin
               </button>
             )}
           </div>
